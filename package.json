@@ -1,6 +1,6 @@
 {
   "name": "powerbi-visuals-utils-chartutils-testing",
-  "version": "1.8.4",
+  "version": "1.8.7",
   "description": "ChartUtils",
   "main": "lib/index.js",
   "repository": {
